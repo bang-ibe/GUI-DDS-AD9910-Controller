@@ -1,0 +1,27 @@
+E:\S K R I P S I\C#\Control Frequency\Control Frequency\bin\Debug\Control Frequency.exe.config
+E:\S K R I P S I\C#\Control Frequency\Control Frequency\bin\Debug\Control Frequency.exe
+E:\S K R I P S I\C#\Control Frequency\Control Frequency\bin\Debug\Control Frequency.pdb
+E:\S K R I P S I\C#\Control Frequency\Control Frequency\bin\Debug\FontAwesome.Sharp.dll
+E:\S K R I P S I\C#\Control Frequency\Control Frequency\obj\Debug\Control Frequency.csprojAssemblyReference.cache
+E:\S K R I P S I\C#\Control Frequency\Control Frequency\obj\Debug\Control_Frequency.Form_ControlFreq_DataAcq.resources
+E:\S K R I P S I\C#\Control Frequency\Control Frequency\obj\Debug\Control_Frequency.Properties.Resources.resources
+E:\S K R I P S I\C#\Control Frequency\Control Frequency\obj\Debug\Control Frequency.csproj.GenerateResource.cache
+E:\S K R I P S I\C#\Control Frequency\Control Frequency\obj\Debug\Control Frequency.csproj.CoreCompileInputs.cache
+E:\S K R I P S I\C#\Control Frequency\Control Frequency\obj\Debug\Control Frequency.csproj.CopyComplete
+E:\S K R I P S I\C#\Control Frequency\Control Frequency\obj\Debug\Control Frequency.exe
+E:\S K R I P S I\C#\Control Frequency\Control Frequency\obj\Debug\Control Frequency.pdb
+E:\S K R I P S I\C#\Control Frequency\Control Frequency\obj\Debug\Panel_Control_Frequency.Panel_4ControlFrequency.resources
+E:\S K R I P S I\O F F I C I A L\CODE\Control Frequency GUI\Control Frequency\bin\Debug\Control Frequency.exe.config
+E:\S K R I P S I\O F F I C I A L\CODE\Control Frequency GUI\Control Frequency\bin\Debug\Control Frequency.exe
+E:\S K R I P S I\O F F I C I A L\CODE\Control Frequency GUI\Control Frequency\bin\Debug\Control Frequency.pdb
+E:\S K R I P S I\O F F I C I A L\CODE\Control Frequency GUI\Control Frequency\bin\Debug\FontAwesome.Sharp.dll
+E:\S K R I P S I\O F F I C I A L\CODE\Control Frequency GUI\Control Frequency\obj\Debug\Control Frequency.csprojAssemblyReference.cache
+E:\S K R I P S I\O F F I C I A L\CODE\Control Frequency GUI\Control Frequency\obj\Debug\Control_Frequency.Form_ControlFreq_DataAcq.resources
+E:\S K R I P S I\O F F I C I A L\CODE\Control Frequency GUI\Control Frequency\obj\Debug\Panel_Control_Frequency.Panel_4ControlFrequency.resources
+E:\S K R I P S I\O F F I C I A L\CODE\Control Frequency GUI\Control Frequency\obj\Debug\Control_Frequency.Properties.Resources.resources
+E:\S K R I P S I\O F F I C I A L\CODE\Control Frequency GUI\Control Frequency\obj\Debug\Control Frequency.csproj.GenerateResource.cache
+E:\S K R I P S I\O F F I C I A L\CODE\Control Frequency GUI\Control Frequency\obj\Debug\Control Frequency.csproj.CoreCompileInputs.cache
+E:\S K R I P S I\O F F I C I A L\CODE\Control Frequency GUI\Control Frequency\obj\Debug\Control Frequency.csproj.CopyComplete
+E:\S K R I P S I\O F F I C I A L\CODE\Control Frequency GUI\Control Frequency\obj\Debug\Control Frequency.exe
+E:\S K R I P S I\O F F I C I A L\CODE\Control Frequency GUI\Control Frequency\obj\Debug\Control Frequency.pdb
+E:\S K R I P S I\O F F I C I A L\CODE\Control Frequency GUI\Control Frequency\obj\Debug\Control_Frequency.Form_ControlFrequency.resources
